@@ -1,9 +1,12 @@
 {
-  "version": "1.3.1",
+  "version": "1.4.0",
   "publiee_le": "2026-09-21",
   "nouveautes": [
-    "Nouvelle regle de doctrine (3.11) : une garde qui accuse le contenu legitime finit desactivee, avec les deux mesures du jour",
-    "La garde des marques tierces compare desormais les marques citees aux mentions, et bloque la seule faute reelle : une marque nommee que les mentions ignorent"
+    "Les 23 cerveaux passent l'audit de maturite a 100 sur 100, statut market-ready, zero critique et zero avertissement (ils etaient 22 sur 23 au statut scaffolded, score 59)",
+    "671 sources au registre, 2411 affirmations, chacune relue sur la page qui la porte le 21.09.2026 ; aucune source muette, aucune date de reverification depassee",
+    "473 ingestions de livres sorties du registre, la ou leur propre fiche disait qu'elles n'avaient rien a y faire, et inventoriees dans un livres-d-appui.md par cerveau",
+    "Cinq adresses mortes retrouvees et remplacees apres lecture des vraies pages (manuel three.js, manuel Blender, web.dev, Next.js, OWASP)",
+    "930 liens morts repares dans la bibliotheque d'inspiration, 23 coffres de demonstration verts sur 23, sections acheteur rendues aux README"
   ],
   "comment_obtenir": "Votre lien de téléchargement personnel vous est envoyé par e-mail à chaque nouvelle version. Sinon, écrivez à hello@digitaltales.studio avec votre numéro de licence."
 }
