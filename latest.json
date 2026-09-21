@@ -1,11 +1,9 @@
 {
-  "version": "1.3.0",
+  "version": "1.3.1",
   "publiee_le": "2026-09-21",
   "nouveautes": [
-    "930 liens morts repares dans la bibliotheque d'inspiration : les fiches renvoyaient a leurs pivots par leur titre, les pivots portent desormais ce titre en alias",
-    "Le controle des marqueurs n'accuse plus le code cite : la syntaxe d'expression n8n, les constantes PHP et un TODO dans un bloc de code passaient pour des trous a remplir",
-    "Deux fiches homonymes renommees (orion, ui) : un lien court ne designe plus deux fiches differentes",
-    "Les 23 coffres de demonstration passent leur propre controle sans une seule erreur, contre 15 sur 23 auparavant"
+    "Nouvelle regle de doctrine (3.11) : une garde qui accuse le contenu legitime finit desactivee, avec les deux mesures du jour",
+    "La garde des marques tierces compare desormais les marques citees aux mentions, et bloque la seule faute reelle : une marque nommee que les mentions ignorent"
   ],
   "comment_obtenir": "Votre lien de téléchargement personnel vous est envoyé par e-mail à chaque nouvelle version. Sinon, écrivez à hello@digitaltales.studio avec votre numéro de licence."
 }
