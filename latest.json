@@ -1,11 +1,10 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "publiee_le": "2026-09-21",
   "nouveautes": [
-    "Installateurs à double-cliquer pour Mac (.pkg) et Windows (.exe), avec mise à jour et désinstallation",
-    "Doctrine rangée en huit familles et installée comme une skill que Claude consulte seul",
-    "Commande /mise-a-jour-digital-tales pour savoir si une version plus récente existe",
-    "Cerveaux remis en état : contrats de passation réalignés (17 tests réparés dans 10 cerveaux), fabrique de cerveaux réparée (31 tests), règle de voix appliquée à la source dans 19 cerveaux"
+    "Quatre gardes automatiques livrées avec la doctrine : elles refusent un tiret cadratin, une clé en clair, un arrêt de processus par motif, et l'arrêt d'une tâche dont la vérification est rouge",
+    "Une commande unique pour les brancher ou les retirer, sans toucher aux hooks déjà en place",
+    "Chaque garde est prouvée par un méta-test : on l'a vue refuser avant de la livrer"
   ],
   "comment_obtenir": "Votre lien de téléchargement personnel vous est envoyé par e-mail à chaque nouvelle version. Sinon, écrivez à hello@digitaltales.studio avec votre numéro de licence."
 }
