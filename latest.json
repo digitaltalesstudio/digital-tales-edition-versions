@@ -1,12 +1,13 @@
 {
-  "version": "1.4.0",
-  "publiee_le": "2026-09-21",
+  "version": "1.0.0",
+  "nom_de_version": "Cursa",
+  "publiee_le": "2026-09-26",
   "nouveautes": [
-    "Les 23 cerveaux passent l'audit de maturite a 100 sur 100, statut market-ready, zero critique et zero avertissement (ils etaient 22 sur 23 au statut scaffolded, score 59)",
-    "671 sources au registre, 2411 affirmations, chacune relue sur la page qui la porte le 21.09.2026 ; aucune source muette, aucune date de reverification depassee",
-    "473 ingestions de livres sorties du registre, la ou leur propre fiche disait qu'elles n'avaient rien a y faire, et inventoriees dans un livres-d-appui.md par cerveau",
-    "Cinq adresses mortes retrouvees et remplacees apres lecture des vraies pages (manuel three.js, manuel Blender, web.dev, Next.js, OWASP)",
-    "930 liens morts repares dans la bibliotheque d'inspiration, 23 coffres de demonstration verts sur 23, sections acheteur rendues aux README"
+    "Première édition, « Cursa » : la doctrine du studio, 72 règles en 8 familles, chacune née d'un incident mesuré, 23 cerveaux de domaine, des skills de méthode et une bibliothèque de savoir tirée de livres de métier et d'une formation vidéo",
+    "Votre configuration vit à part du produit, dans un dossier de réglages qui n'appartient qu'à vous : licence, clés API, profil et règles. Aucune mise à jour n'y touche, et Claude Code charge votre profil à chaque session",
+    "L'application Éridan, sur Mac : licence, identité, clés API jamais affichées, votre doctrine à côté de celle de Digital Tales, vos propres règles, et la préparation de vos propositions de règles, que vous seul envoyez à Digital Tales",
+    "Un installateur Mac à double-cliquer, à votre nom, avec une mise à jour et une désinstallation qui ne détruisent rien. Windows arrive à la version 1.1",
+    "Chaque cerveau passe son audit de maturité, chaque source de son registre dit ce qu'elle affirme, et aucune citation n'est retouchée"
   ],
   "comment_obtenir": "Votre lien de téléchargement personnel vous est envoyé par e-mail à chaque nouvelle version. Sinon, écrivez à hello@digitaltales.studio avec votre numéro de licence."
 }
